@@ -1,0 +1,13 @@
+{
+    "name": "webpacktools",
+    "version": "1.0.0",
+    "description": "il nostro primo scaffolding",
+    "main": "src/index.js",
+    "scripts": {
+
+    },
+    "keywords": ["javascript","frontend","webpack"],
+    "author": "elio castellini",
+    "license": "ISC"
+
+}
